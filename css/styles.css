@@ -41,7 +41,10 @@
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 .big-img {
-  width: 100%;
+  width: 97%;
+  margin-left: 8px;
+  margin-right: 8px;
+  margin-bottom: 12px;
 }
 
 *,
@@ -382,6 +385,11 @@ h1, h2, h3, h4, h5, h6,
 
 .myh5 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.myBody {
+  margin-bottom: 8;
 }
 
 h1, .h1 {
